@@ -47,12 +47,6 @@ The notebook provides:
 - Visualizations highlighting key trends, such as accident frequency during specific weather conditions.
 - Observations and insights into traffic and weather interactions.
 
-## Contribution
-Contributions to improve this analysis or extend its scope are welcome. Please fork the repository and submit a pull request with your changes.
-
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For any questions or feedback, feel free to reach out to the project maintainer.
 
